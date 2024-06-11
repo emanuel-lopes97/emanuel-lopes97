@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanuel-lopes97
-- 👀 I’m interested in study network and infrastruture 
+- 👀 I’m interested in computers network and infrastruture 
 - 🌱 I’m currently learning the basic of routeurs and switch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
